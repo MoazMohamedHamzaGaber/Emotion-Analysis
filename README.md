@@ -32,3 +32,9 @@ Assists in understanding patient emotions, leading to improved communication and
 - Processing: Utilizes natural language processing, audio analysis, and computer vision to identify emotional indicators.
 
 - Emotion Interpretation: Interprets the emotions based on processed data and provides feedback or takes action accordingly.
+
+## ScreenShots
+
+![1](https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/fb66c220-d115-4e02-bba0-62ce6c4bfb07)
+![2](https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/42416005-43e1-4ecf-9c16-549da29bdc3a)
+![3](https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/fafa4f1a-0483-49b3-9488-01adb1b21a3b)
