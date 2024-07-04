@@ -35,6 +35,8 @@ Assists in understanding patient emotions, leading to improved communication and
 
 ## ScreenShots
 
-![1](https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/fb66c220-d115-4e02-bba0-62ce6c4bfb07)
-![2](https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/42416005-43e1-4ecf-9c16-549da29bdc3a)
-![3](https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/fafa4f1a-0483-49b3-9488-01adb1b21a3b)
+<p align="center">
+  <img src="https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/fb66c220-d115-4e02-bba0-62ce6c4bfb07" width="200" />
+  <img src="https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/42416005-43e1-4ecf-9c16-549da29bdc3a" width="200" />
+  <img src="https://github.com/MoazMohamedHamzaGaber/Emotion-Analysis/assets/112036630/fafa4f1a-0483-49b3-9488-01adb1b21a3b" width="200" />
+</p>
